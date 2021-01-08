@@ -239,7 +239,7 @@ p {
 .we-create li {
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 14px;s
     color: #bcbcbc;
     text-transform: uppercase;
     font-weight: 400;
@@ -337,8 +337,8 @@ p {
 .main-section {
     padding: 90px 0 110px;
 }
-.ssentence {font-family:'Noto Sans Kr', sans-serif; font-weight: 100; }
-.ssentence span {font-family:'Do Hyeon',sans-serif; font-size: 17px;}
+.ssentence {font-family:'Noto Sans Kr', sans-serif !important; font-weight: 100; }
+.ssentence span {font-family:'Do Hyeon',sans-serif !important; font-size: 17px;}
 
 /* Services
 ---------------------------------*/
