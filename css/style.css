@@ -219,8 +219,8 @@ p {
     width: 65px;
 }
 
-.weltxt {font-family:Noto Sans;font-size: 20px; color: #999 }
-.weltxt span {font-size: 24px;;color: #7cc576; animation: blink 2s linear;font-family: Do Hyeon} 
+.weltxt {font-family:'Noto Sans KR',sans-serif;font-size: 20px; color: #999 }
+.weltxt span {font-size: 24px;;color: #7cc576; animation: blink 2s linear;font-family:'Do Hyeon',sans-serif} 
 .weltxt span:last-child{font-size: 24px; color: azure}
 @keyframes blink {
     0% {opacity: 0;}
@@ -337,8 +337,8 @@ p {
 .main-section {
     padding: 90px 0 110px;
 }
-.ssentence {font-family:"Noto Sans"; font-weight: 100; }
-.ssentence span {font-family: "Do Hyeon"; font-size: 17px;}
+.ssentence {font-family:'Noto Sans Kr', sans-serif; font-weight: 100; }
+.ssentence span {font-family:'Do Hyeon',sans-serif; font-size: 17px;}
 
 /* Services
 ---------------------------------*/
