@@ -337,7 +337,8 @@ p {
 .main-section {
     padding: 90px 0 110px;
 }
-
+.ssentence {font-family:"Noto Sans"; font-weight: 100; }
+.ssentence span {font-family: "Do Hyeon"; font-size: 17px;}
 
 /* Services
 ---------------------------------*/
